@@ -1,0 +1,14 @@
+*.swp
+*.root
+*.dat
+*.dat-e
+.DS_Store
+build*
+*.png
+*.txt
+!CMakeLists.txt
+*.csv
+*.digested*
+*.pdf
+*.gp
+!SynradG4/pic.png
