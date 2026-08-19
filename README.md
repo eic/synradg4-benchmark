@@ -1,4 +1,4 @@
-# SynradBenchmark
+# Synrad Benchmark
 
 ## Overview
 
